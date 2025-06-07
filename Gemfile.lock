@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jekyll (4.3.2)
+    jekyll-paginate (1.1.0)
+    jekyll-remote-theme (0.4.3)
+    webrick (1.8.1)
+
+DEPENDENCIES
+  jekyll (~> 4.3)
+  jekyll-paginate
+  jekyll-remote-theme
+  webrick (~> 1.8)
+
+BUNDLED WITH
+   2.6.7
