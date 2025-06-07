@@ -1,0 +1,11 @@
+# Jekyll configuration for the blog
+
+title: Blog 2.0
+description: "A simple blog using the Chirpy theme"
+baseurl: ""
+url: ""
+
+remote_theme: cotes2020/jekyll-theme-chirpy
+
+plugins:
+  - jekyll-remote-theme

@@ -1,0 +1,8 @@
+# Ignore generated HTML files
+/docs/
+!/docs/.gitkeep
+# Jekyll artifacts
+.jekyll-cache/
+.sass-cache/
+/vendor/bundle/
+/node_modules/
